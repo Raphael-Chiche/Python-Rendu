@@ -10,4 +10,9 @@ Lancer le script présent dans app.py
 PHASE 1 : 
 Récupération de l'URL de la page d'un livre depuis la page d'accueil.
 Une fois l'URL obtenue, je récupère toutes les informations nécessaires sur le livre.
-J'ajoute toutes ces informations dans un fichier CSV nommé book.csv.
+J'ajoute toutes ces informations dans un fichier CSV nommé livre.csv.
+
+PHASE 2 :
+Récupération d'une catégorie depuis la page d'accueil.
+Une fois l'URL obtenue, je récupère tout les livres puis toutes les informations nécessaires sur les livres.
+J'ajoute toutes ces informations dans un fichier CSV.
