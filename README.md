@@ -29,3 +29,9 @@ J'ajoute toutes ces informations dans un dossier CSV avec le fichier csv avec le
 Création du dossier images.
 Récupération de l'url et du titre de l'image.
 Téléchargement de l'image dans un dossier de la catégorie.
+
+BONUS 1 - PHASE 5 :
+
+Visualisation avec Matplotlib.
+Création d'un diagramme circulaire montrant la répartition des livres par catégorie spécifique en pourcentage.
+Création d'un graphique en barres qui montre le prix moyen des livres pour chaque catégorie de livres collectée.
